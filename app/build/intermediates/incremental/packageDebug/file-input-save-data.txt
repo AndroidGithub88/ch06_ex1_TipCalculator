@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Sat Nov 04 14:20:15 PDT 2017
+2.base=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_tip_calculator.xml
+2.set=ANDROID_RESOURCE
+4.base=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+7.set=DEX
+count=9
+0.file=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+5.base=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_action_search.png
+4.set=ANDROID_RESOURCE
+6.base=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_tip_calculator.xml
+1.set=ANDROID_RESOURCE
+7.base=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+2.file=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\restaurant.jpg
+6.set=ANDROID_RESOURCE
+0.base=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\androidHomework\\Password3\\ch06_ex1_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\activity_tip_calculator.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
